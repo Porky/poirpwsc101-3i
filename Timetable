@@ -1,0 +1,102 @@
+Ruby Programming with Shoes
+by Satoshi Asakawa
+
+Timetable of Shoes programming course, 3rd batch
+Preparation
+
+Day 1: Install Shoes and run 16 sample programs
+
+    * Install Shoes
+
+If you experience a problem installing Shoes. Let us know in the Day 1 forum area. Someone may have already solved the problem or as a group we can see if we can help you.
+
+Once you have it installed let us know here in the forum and you can take this little survey we have to help us with the course.
+
+    * Run 16 sample programs
+
+Shoes is built by _why with suggestions from everyone who use Shoes. Here's a short introductory tutorial with 16 sample programs. Read the tutorial. Run all the samples to see what they do. Start changing the samples to help you learn the basics as presented in the tutorial. If you come up with something that you want to share, paste or upload the code.
+
+Of course if you have any questions about the samples or just want to share your observations, please post them in the Day 1 Forum Thread.
+Exercise 1
+
+Create your own Riddles in Shoes by doing the following five steps.
+
+Day 2: Open Shoes Window
+
+    * Window's width and height are both 400 pixel.
+    * Can't resize.
+    * Show your app name and revision number on the window's title bar.
+    * Color the surface of the window with a horizontal gradation.
+
+Day 3: Lay out titles and elements
+
+    * Show title 'Riddles in Shoes'.
+    * Show line under the title.
+    * Show subtitles 'Question', 'Answer' and 'Score'.
+    * Align 10 stars under the line.
+
+Day 4: Show a riddle and create an input answer area
+
+    * Click a button to show a riddle at random.
+    * Use these riddles.
+
+Day 5: Move down the star
+
+    * Click a button to smoothly move down a star for the question.
+    * If the answer is correct, align the star at the left-bottom.
+    * If the answer is incorrect, align the star at the right-bottom.
+
+Day 6: Play Riddles in Shoes
+
+    * Finish the game after answering all riddles.
+    * Decorate the surface to your taste.
+
+Day 7: Sabbath
+
+    * Take a rest / catch up. wink
+
+Exercise 2
+
+Create your own Dog Hunts Sheep Game by doing the following five steps.
+
+Day 8: A sheep running in the grass farm.
+
+    * Use this pic as the background.
+    * A sheep runs from the bottom of the window to the top.
+    * The sheep stops at the top.
+
+Day 9: There are twenty-five sheep and one dog
+
+    * Twenty-five sheep run at various speed or stop a while.
+    * Dog moves with the arrow keys.
+
+Day 10: Dog woofs sheep
+
+    * Dog woofs at sheep when and where he catches sheep.
+    * 'Woofs!' will vanish after a while.
+
+Day 11: Dog catches sheep and sends them where they belong!
+
+    * A deepskyblue star appears when and where the dog catches a sheep.
+    * The sheep return where they belong.
+
+Day 12: Finish the game
+
+    * Sheep say 'baa!' at the top.
+    * The game finishes when all the sheep reach the top of the window or return the bottom.
+
+Day 13: Wrap up
+
+    * Let's wrap up Exercise 1 and 2.
+
+Day 14: Extra challenges
+
+You can use as a challenge the following exercises from the previous batch.
+
+    * Pong in Shoes
+    * Mini Adventure Game GUI Part
+
+Good luck! big grin
+Satoshi
+
+This timetable explanation was improved by George Thompson and Peter Crawford.
